@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-30 06:32:55,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-30 18:47:08,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -469,6 +469,12 @@ CCTV16 4k,https://iptv.catvod.com/live.php?id=CCTV16-4k
 浙江经济生活,http://ls.qingting.fm/live/1099.m3u8
 浙江民生,https://stream1.freetv.fun/zhe-jiang-min-sheng-10.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-9.m3u8
+浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&d=83b26bacf5397c013aff782b2c4287d0&k=c99bdac76cff6ddc27e750ba689b7d5b&t=1704368408
+浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-4.m3u8
+浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-4.ctv
+浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-6.ctv
+浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
+浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-9.ctv
 杭州综合,http://goo.bkpcp.top/mg/hzzh
 杭州综合,https://stream1.freetv.fun/hang-zhou-zong-he-3.ctv
 杭州综合,https://stream1.freetv.fun/hang-zhou-zong-he-2.ctv
@@ -487,6 +493,10 @@ CCTV16 4k,https://iptv.catvod.com/live.php?id=CCTV16-4k
 湖州公共,https://stream1.freetv.fun/hu-zhou-gong-gong-9.m3u8
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-10.m3u8
 浙江公共新闻,https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-1.m3u8
+衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-3.m3u8
+衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-1.m3u8
+衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-1.ctv
+衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-2.m3u8
 萧山新闻综合,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-6.m3u8
 萧山新闻综合,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-8.m3u8
 萧山新闻综合,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-2.m3u8
@@ -511,6 +521,8 @@ CCTV16 4k,https://iptv.catvod.com/live.php?id=CCTV16-4k
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-2.m3u8
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-3.ctv
 武义新闻综合,https://stream1.freetv.fun/wu-yi-xin-wen-zong-he-3.m3u8
+新昌新闻综合,https://stream1.freetv.fun/xin-chang-xin-wen-zong-he-4.m3u8
+新昌新闻综合,https://stream1.freetv.fun/xin-chang-xin-wen-zong-he-5.ctv
 开化新闻综合,https://stream1.freetv.fun/kai-hua-xin-wen-zong-he-1.m3u8
 开化新闻综合,https://stream1.freetv.fun/kai-hua-xin-wen-zong-he-2.ctv
 平湖新闻综合,https://stream1.freetv.fun/ping-hu-xin-wen-zong-he-3.m3u8
@@ -522,6 +534,12 @@ CCTV16 4k,https://iptv.catvod.com/live.php?id=CCTV16-4k
 嵊州新闻综合,https://stream1.freetv.fun/sheng-zhou-xin-wen-zong-he-1.m3u8
 兰溪新闻综合,https://stream1.freetv.fun/lan-xi-xin-wen-zong-he-1.m3u8
 兰溪新闻综合,https://stream1.freetv.fun/lan-xi-xin-wen-zong-he-3.m3u8
+上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-3.m3u8
+上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-6.m3u8
+上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-4.m3u8
+上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-2.m3u8
+上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-5.m3u8
+上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-1.m3u8
 上虞文化影院,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-2.ctv
 上虞文化影院,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-1.m3u8
 上虞文化影院,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-3.ctv
@@ -591,6 +609,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=294ad68965ae98154cf642780ea6b42a6050350937594a05da55c08b3ee199b8%3A1764120126%3AMTcyLjIxNS4yMTcuNzA%3D
 纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=952da42ead7a9963a1aabe988efce34b0534d158856c7061541368f82f5be2b8%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
 纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=9110a84f06e58d2c632e1c3f6b9342c343ccf0447cc40ad96f67d3ea0065ba93%3A1764379082%3AMTM1LjExOS4yMzYuNTE%3D
+纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=bf02ce93ece19b1abcc8618494164ed298bc35a7cd196b164bbdf684989c0849%3A1764466686%3ANjguMjIwLjYxLjI%3D
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
@@ -621,6 +640,12 @@ CHC动作电影,https://migu.188766.xyz/?migutoken=febef8d7f761db5b8e0723edc6a99
 CHC动作电影,https://migu.188766.xyz/?migutoken=9f6e9b38a9e30de370cdc4f014d06acc&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
 
 🎮游戏频道,#genre#
+游戏风云,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031114
+游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy
+游戏风云,http://gat.bkpcp.top/ymg.php?id=yxfy
+游戏风云,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226548/index.m3u8
+游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0
+游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=4bb23a171d4d63d4362dfba9a795c0f4ae95e2190f17a502e900947df23bda8e7a18b21aa9e6b578071ed4ced654a44a80d0fb8970ac8330432d19255fb721f3c1ee552fa186e2c9427e18e082
 电竞天堂,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288003/index.m3u8?channel-id=bestzb&Contentid=5000000011000288003&livemode=1&stbId=YanG-1989
 爱电竞,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000230630
 
