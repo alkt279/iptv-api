@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-01 06:35:08,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-01 18:42:57,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -195,12 +195,6 @@ CETV-2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/51/20240709/index.m3u8
 CETV-2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=20251123060040717387787a284a88889b8f87567e3908&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20251123060040&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=106.13.250.89&SecurityKey=20251123060040&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=2941508ff8e7ab869c304e25fb09fde2&ddCalcu=22e9ed42f1395000b8ff5f28ee470a3bc896
 CETV-2,https://migu.188766.xyz/?migutoken=47da0d381948061939404e4b2b5ad482&id=CETV2&type=yy
 CETV-2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=20251124080105a36373e686244ab4b34fbbc203f57d7d&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20251124080105&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=106.13.250.89&SecurityKey=20251124080105&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=afcda8edcb81e058342ba51af780c9e7&ddCalcu=7aefe9c2cd30a0887efdac1b58a1be204538
-CETV-3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8
-CETV-3,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
-CETV-3,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
-CETV-3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227352/index.m3u8
-CETV-3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
-CETV-3,http://iptv.666230.xyz/iptv/jsyd.php/G_CETV-3
 CETV-4,https://migu.188766.xyz/?migutoken=8cbae9fa1e3812baa2eafc157d49d25c&id=CETV4&type=yy
 CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=2025112106004356eef6b0c74b4fd49f41e6ac131e9dc9&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20251121060043&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=106.13.250.90&SecurityKey=20251121060043&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9ba717133050a3103061b9c3fccf2549&ddCalcu=994be5a2273f10c7c1f333c095b01a630130
 CETV-4,https://migu.188766.xyz/?migutoken=aa1dcd38bc1ef4c614b5dc89e88d18a2&id=CETV4&type=yy
@@ -499,6 +493,10 @@ CCTV16 4k,https://iptv.catvod.com/live.php?id=CCTV16-4k
 萧山新闻综合,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-7.m3u8
 萧山新闻综合,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-1.m3u8
 萧山新闻综合,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-3.m3u8
+苍南新闻综合,https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-5.m3u8
+苍南新闻综合,https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-1.m3u8
+苍南新闻综合,https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-4.ctv
+苍南新闻综合,https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-3.m3u8
 绍兴新闻综合,https://stream1.freetv.fun/shao-xing-xin-wen-zong-he-2.m3u8
 绍兴新闻综合,https://stream1.freetv.fun/shao-xing-xin-wen-zong-he-3.m3u8
 绍兴新闻综合,https://stream1.freetv.fun/shao-xing-xin-wen-zong-he-4.m3u8
@@ -598,6 +596,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=952da42ead7a9963a1aabe988efce34b0534d158856c7061541368f82f5be2b8%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
 纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=9110a84f06e58d2c632e1c3f6b9342c343ccf0447cc40ad96f67d3ea0065ba93%3A1764379082%3AMTM1LjExOS4yMzYuNTE%3D
 纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=bf02ce93ece19b1abcc8618494164ed298bc35a7cd196b164bbdf684989c0849%3A1764466686%3ANjguMjIwLjYxLjI%3D
+纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=812f5872ecaba953af1d870810f7f1fd1eea582c76b6bbe080484e2990dcaeb8%3A1764553503%3AMTcyLjE4NC4yMTMuMjI1
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
