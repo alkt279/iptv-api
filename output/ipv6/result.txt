@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-11 06:35:12,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-11 18:41:50,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -477,6 +477,7 @@ CCTV16 4k,https://iptv.catvod.com/live.php?id=CCTV16-4k
 浙江经济生活,http://ls.qingting.fm/live/1099.m3u8
 浙江民生,https://stream1.freetv.fun/zhe-jiang-min-sheng-10.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-9.m3u8
+浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-3.m3u8
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-8.m3u8
 杭州综合,http://goo.bkpcp.top/mg/hzzh
 杭州综合,https://stream1.freetv.fun/hang-zhou-zong-he-3.ctv
@@ -500,6 +501,14 @@ CCTV16 4k,https://iptv.catvod.com/live.php?id=CCTV16-4k
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-1.m3u8
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-1.ctv
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-2.m3u8
+萧山新闻综合,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-6.m3u8
+萧山新闻综合,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-8.m3u8
+萧山新闻综合,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-2.m3u8
+萧山新闻综合,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-9.m3u8
+萧山新闻综合,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-4.m3u8
+萧山新闻综合,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-7.m3u8
+萧山新闻综合,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-1.m3u8
+萧山新闻综合,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-3.m3u8
 苍南新闻综合,https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-5.m3u8
 苍南新闻综合,https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-1.m3u8
 苍南新闻综合,https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-4.ctv
@@ -516,8 +525,6 @@ CCTV16 4k,https://iptv.catvod.com/live.php?id=CCTV16-4k
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-2.m3u8
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-3.ctv
 武义新闻综合,https://stream1.freetv.fun/wu-yi-xin-wen-zong-he-3.m3u8
-新昌新闻综合,https://stream1.freetv.fun/xin-chang-xin-wen-zong-he-4.m3u8
-新昌新闻综合,https://stream1.freetv.fun/xin-chang-xin-wen-zong-he-5.ctv
 开化新闻综合,https://stream1.freetv.fun/kai-hua-xin-wen-zong-he-1.m3u8
 开化新闻综合,https://stream1.freetv.fun/kai-hua-xin-wen-zong-he-2.ctv
 平湖新闻综合,https://stream1.freetv.fun/ping-hu-xin-wen-zong-he-3.m3u8
@@ -669,3 +676,4 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=f24124cb55ee7b2392b
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
 风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 音乐广播,https://tv-1.iill.top/fm/552
+音乐广播,https://tv.iill.top/fm/552&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
