@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-08 06:31:57,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-03-08 18:34:38,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -171,6 +171,7 @@ CCTV-16,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
 CCTV-16,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227074/index.m3u8
 CCTV-16,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227346/index.m3u8
 CCTV-16,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/index.m3u8
+CCTV-16,https://t.freetv.fun/live/cctv16-5.php
 CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=e7dc493273bb331a8b7e0d3c475924ad4706b90f18fd4775c1c134103274e9ad9d59015289e02877b65420a149fcae4f793ded0177cc600ac79d9a95a234e4a8db198072e6973c4a14c05c9dc6
 CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=04374bdde2e4223798159ce189b302c8599b8bb84f8d8f3cbd0adbfc1b53ae5f4a89e00409ced1e0b5b37757ed87e5ce46cab61a18a42b67837b361003b0783f61b66a24877938993b4f7a2b50
 CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=11fec7586772852c5b34d75ff515080f8def9861a030c98c5861b036729d642445a7bc5b0cd43e7086ca1903346f6cbad01b639771ee3bd13e653bdb2d14f169744862c9695688b0b177bc144a
@@ -238,6 +239,7 @@ CCTV16 4k,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
 CCTV16 4k,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227074/index.m3u8
 CCTV16 4k,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227346/index.m3u8
 CCTV16 4k,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/index.m3u8
+CCTV16 4k,https://t.freetv.fun/live/cctv16-5.php
 湖南卫视4k,https://migu.188766.xyz/?migutoken=d1a2664d50df635724ab494d3f37b65f&id=hnws&type=sz
 湖南卫视4k,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K%E5%8F%B0
 湖南卫视4k,https://migu.188766.xyz/?migutoken=8827f28658999d4fef4466668e4c7767&id=hnws&type=sz
@@ -530,6 +532,7 @@ CCTV16 4k,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/in
 山西卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226137/index.m3u8
 山西卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001070/index.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-3-2.m3u8
+山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-1.php
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=3d2992ea78cf0d16e27303f2161b886b2f53f2772c9048d2cf024f810a7a6007aa15c432ba27023ed9ebdf2d93f5d4510ba233d9e8a9a429cc12bc2fb6a40c03bfa415dc27c8f998eec1905302
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=7a2ceb1f61adc2c6d6dd1c53cd296e5f6a0051a6d1feeca78950e85d307caa9edd71e4c150c3c44b3f5465612befd2294c38f49ce94c3a42b166683c48422cfecb24f5888d679c6511ca220f9e
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=1aef50c89c9468d94677a906c3332de851f93ccdc0dab306ff82f6cf8dc0185feb0e0bd07a3fe73460155d5559750dd6fbd183dbf1005cf1c795d2257e6e73dfa1833fa9dcd8b3ce51f46b94ac
@@ -677,7 +680,6 @@ CCTV16 4k,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/in
 永嘉新闻综合,https://t.freetv.fun/live/yong-jia-xin-wen-zong-he-1.m3u8
 永嘉新闻综合,https://t.freetv.fun/live/yong-jia-xin-wen-zong-he.m3u8
 武义新闻综合,https://stream1.freetv.fun/wu-yi-xin-wen-zong-he-3.m3u8
-松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
 新昌新闻综合,https://t.freetv.fun/live/xin-chang-xin-wen-zong-he.m3u8
 开化新闻综合,https://stream1.freetv.fun/kai-hua-xin-wen-zong-he-1.m3u8
 开化新闻综合,https://stream1.freetv.fun/kai-hua-xin-wen-zong-he-2.ctv
