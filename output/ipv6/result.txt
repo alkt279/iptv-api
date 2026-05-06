@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-06 19:59:27,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-05-07 07:01:53,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -333,6 +333,7 @@ CCTV16 4k,https://t.freetv.fun/live/cctv16-5.php
 湖北卫视,https://migu.188766.xyz/?migutoken=47b6fca71121b93239a1d4a462e27f63&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
 湖北卫视,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=20251121060038db6ef6dd32ba401bb8259fc351e4e2e6&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20251121060038&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=106.13.250.90&SecurityKey=20251121060038&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1b70cb2144cc9e9a3c263faf6a02f5a6&ddCalcu=61abe572f072c00ba261f4a4fc3c692ec93a
 湖北卫视,https://migu.188766.xyz/?migutoken=0fae7c1f40758d0306f9a505614d886e&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
+黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86
@@ -342,7 +343,6 @@ CCTV16 4k,https://t.freetv.fun/live/cctv16-5.php
 黑龙江卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001031/index.m3u8
 黑龙江卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226749/index.m3u8
 黑龙江卫视,http://ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
-黑龙江卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226145/index.m3u8
 安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E5%8F%B0
 安徽卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007224/main.m3u8?stbid=
 安徽卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226746/index.m3u8
@@ -685,7 +685,6 @@ CCTV16 4k,https://t.freetv.fun/live/cctv16-5.php
 开化新闻综合,https://stream1.freetv.fun/kai-hua-xin-wen-zong-he-1.m3u8
 开化新闻综合,https://stream1.freetv.fun/kai-hua-xin-wen-zong-he-2.ctv
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
-庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he-1.m3u8
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he-2.m3u8
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he.m3u8
@@ -695,6 +694,8 @@ CCTV16 4k,https://t.freetv.fun/live/cctv16-5.php
 嵊州新闻综合,https://stream1.freetv.fun/sheng-zhou-xin-wen-zong-he-1.m3u8
 兰溪新闻综合,https://t.freetv.fun/live/lan-xi-xin-wen-zong-he-1.m3u8
 兰溪新闻综合,https://t.freetv.fun/live/lan-xi-xin-wen-zong-he.m3u8
+余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+余姚综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 上虞新商都,https://t.freetv.fun/live/shang-yu-xin-shang-du-1.m3u8
 上虞新商都,https://t.freetv.fun/live/shang-yu-xin-shang-du.m3u8
 上虞新商都,https://t.freetv.fun/live/shang-yu-xin-shang-du-2.m3u8
@@ -728,21 +729,21 @@ CCTV16 4k,https://t.freetv.fun/live/cctv16-5.php
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzw
+凤凰中文,https://stream1.freetv.fun/fe3d3346f748e4ec230691be958aff27e91c225b43b5855685cd1fbe79c56f60.m3u8
+凤凰中文,https://stream1.freetv.fun/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文,https://mgev.188766.xyz/?migutoken=cd7299e446cd7fd85744a62c49e3e195&id=fhzw&pp=1
 凤凰中文,https://migu.188766.xyz/?migutoken=e6dbeacc884ac4f9187bdae70364ce3a&id=hk_fhzw&type=dy
-凤凰中文,https://mgev.188766.xyz/?migutoken=8b5ca677668133ed9cf87d85655da5b1&id=fhzw&pp=1
-凤凰中文,https://migu.188766.xyz/?migutoken=0ef800bce7e2ffa5695743b50810ac5e&id=hk_fhzw&type=dy
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰资讯,https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰资讯,https://mgev.188766.xyz/?migutoken=ea0776a3e644e1bb3f17579a87bf51c6&id=fhzx&pp=1
 凤凰资讯,https://migu.188766.xyz/?migutoken=a6c9367be2f42216ea60c5d2cb5e190c&id=hk_fhzx&type=dy
-凤凰资讯,https://mgev.188766.xyz/?migutoken=0a3543f685fae56db64296422c62b41e&id=fhzx&pp=1
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
@@ -792,17 +793,18 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 
 🎬电影频道,#genre#
 CHC家庭影院,http://eastscreen.tv/ooooo.php
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-7.m3u8
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-23.m3u8
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-1.m3u8
 CHC家庭影院,https://live.chinacert.cftest5.cn/mg/?id=644368373
 CHC家庭影院,https://migu.188766.xyz/?migutoken=d8b589d85881c23c3ac96ea5ccbed1bc&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
 CHC家庭影院,https://migu.188766.xyz/?migutoken=978415431e072105ca9b4c331d1e6bab&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
 CHC家庭影院,https://migu.188766.xyz/?migutoken=76def397fa775b61f72292afec2d7615&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
 CHC家庭影院,https://migu.188766.xyz/?migutoken=807c48bdfb8e27d9c30c52ad52bffa6d&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
 CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2%E5%8F%B0
-CHC家庭影院,https://migu.188766.xyz/?migutoken=ac79688e01f54b60af8ba5b6947fdd90&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
-CHC家庭影院,https://migu.188766.xyz/?migutoken=43040b6b9a261f335b66b2335e154ce0&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
 CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-14.m3u8
+CHC动作电影,https://stream1.freetv.fun/413df533cc2d866bacdc87729814e66f4cf836c13b12ed783b54345fd012c6c8.m3u8
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-19.m3u8
 CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=fb9ef80443f06c3612ddd35545ec1054b5bcab3941fc46ecf84808bdd512d7b2cf16d34fdf955bff71bf01f818f6918ba2d7f536dc5451d1519d15cf8a5671bf16ea8a3bbc71db4477476e211d
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
@@ -810,7 +812,6 @@ CHC动作电影,http://eastscreen.tv/ooooo.php
 CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714
 CHC动作电影,https://migu.188766.xyz/?migutoken=bfcfaf929838714f6ec89a0098f7643b&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
 CHC动作电影,https://migu.188766.xyz/?migutoken=d3e73cbe14865f450a9fbd9a2a306018&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
-CHC动作电影,https://migu.188766.xyz/?migutoken=d08eac3176b25be18a42eac977c8da3f&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
 
 🎮游戏频道,#genre#
 游戏风云,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000027005/1.m3u8?channel-id=bestzb&Contentid=5000000002000027005&livemode=1&stbId=m
