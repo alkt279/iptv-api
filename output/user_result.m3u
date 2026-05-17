@@ -1,20 +1,20 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/alkt279/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-17 19:18:43
-https://iptv.catvod.com/catvod?id=CCTV1&line=21
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-18 07:02:30
+https://iptv.catvod.com/catvod?id=CCTV1&line=7
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
+https://iptv.catvod.com/catvod?id=CCTV1&line=7
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
+https://iptv.catvod.com/catvod?id=CCTV1&line=19
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
+https://iptv.catvod.com/catvod?id=CCTV1&line=10
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 https://iptv.catvod.com/catvod?id=CCTV1&line=21
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
+https://iptv.catvod.com/catvod?id=CCTV1&line=8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 https://iptv.catvod.com/catvod?id=CCTV1&line=20
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 https://iptv.catvod.com/catvod?id=CCTV1&line=11
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
-https://iptv.catvod.com/catvod?id=CCTV1&line=10
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
-https://iptv.catvod.com/catvod?id=CCTV1&line=19
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
-https://iptv.catvod.com/catvod?id=CCTV1&line=8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
-https://iptv.catvod.com/catvod?id=CCTV1&line=7
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
@@ -22,13 +22,13 @@ https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 https://www.freetv.top/migu/608807420.m3u8?migutoken=b0831136e327a93587e1920b5595d227c66a7f1a6aabb8e7532bc0682db88a37af6a27b88fde476a02c5f83db38f3b3e864bcf981c57f7fed9877095a1e2fac1a149f0f8869c5c1dc147bee7be
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
-https://iptv.catvod.com/catvod?id=CCTV2&line=5
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
-https://iptv.catvod.com/catvod?id=CCTV2&line=6
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
 https://iptv.catvod.com/catvod?id=CCTV2&line=4
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
+https://iptv.catvod.com/catvod?id=CCTV2&line=5
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
 https://iptv.catvod.com/catvod?id=CCTV2&line=2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
+https://iptv.catvod.com/catvod?id=CCTV2&line=6
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
 https://smart.pendy.dpdns.org/Smart.php?id=cctv2
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
@@ -50,9 +50,9 @@ https://iptv.catvod.com/catvod?id=CCTV3&line=6
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
 https://iptv.catvod.com/catvod?id=CCTV3&line=8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
-https://iptv.catvod.com/catvod?id=CCTV3&line=7
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
 https://iptv.catvod.com/catvod?id=CCTV3%E7%BB%BC%E8%89%BA&line=1
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
+https://iptv.catvod.com/catvod?id=CCTV3&line=7
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
 https://www.freetv.top/migu/624878271.m3u8?migutoken=cc5fda32f92c3778b4ec917c6edfddfb427acd161372f4acf6deb16520a123904ce79198d9cf1f7cc96dea7795d561a75b2b3581a0bfcffa303d18f45a217ff78e8dcdaf915667846e1465145a
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
@@ -62,43 +62,43 @@ https://www.freetv.top/migu/624878271.m3u8?migutoken=ca824f02f6213b64bc94ece82f0
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
 https://www.freetv.top/migu/624878271.m3u8?migutoken=d2f5e7c9e37c0b31c1e675570e64cff15a1f3d4cc205147b55d1c5c9bb6dabbe7f90a086a034b81e426ec6972d34b1a781ff13dc117f082e339a9ed2a182bf981810fdf1dcec27a84fadf629e3
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
-https://iptv.catvod.com/catvod?id=CCTV4&line=15
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 https://iptv.catvod.com/catvod?id=CCTV4%E7%BE%8E%E6%B4%B2&line=2
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
-https://iptv.catvod.com/catvod?id=CCTV4&line=5
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
-https://iptv.catvod.com/catvod?id=CCTV4&line=11
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
-https://iptv.catvod.com/catvod?id=CCTV4&line=13
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
-https://iptv.catvod.com/catvod?id=CCTV4&line=1
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 https://iptv.catvod.com/catvod?id=CCTV4%E7%BE%8E%E6%B4%B2&line=1
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
+https://iptv.catvod.com/catvod?id=CCTV4&line=13
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 https://iptv.catvod.com/catvod?id=CCTV4&line=10
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
-https://iptv.catvod.com/catvod?id=CCTV4&line=3
+https://iptv.catvod.com/catvod?id=CCTV4&line=11
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
-https://iptv.catvod.com/catvod?id=CCTV4&line=7
+https://iptv.catvod.com/catvod?id=CCTV4&line=6
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
+https://iptv.catvod.com/catvod?id=CCTV4&line=8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
+https://iptv.catvod.com/catvod?id=CCTV4&line=14
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
+https://iptv.catvod.com/catvod?id=CCTV4&line=9
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
+https://iptv.catvod.com/catvod?id=CCTV4&line=5
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
-https://iptv.catvod.com/catvod?id=CCTV5&line=5
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
-https://iptv.catvod.com/catvod?id=CCTV5&line=9
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
-https://iptv.catvod.com/catvod?id=CCTV5&line=8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
-https://iptv.catvod.com/catvod?id=CCTV5&line=6
+https://iptv.catvod.com/catvod?id=CCTV5&line=14
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 https://iptv.catvod.com/live.php?id=CCTV5&line=14
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
-https://iptv.catvod.com/live.php?id=CCTV5&line=13
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
-https://iptv.catvod.com/catvod?id=CCTV5&line=3
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
-https://iptv.catvod.com/catvod?id=CCTV5&line=2
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 https://iptv.catvod.com/catvod?id=CCTV5&line=4
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
+https://iptv.catvod.com/catvod?id=CCTV5&line=13
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
+https://iptv.catvod.com/catvod?id=CCTV5&line=8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
+https://iptv.catvod.com/catvod?id=CCTV5&line=11
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
+https://iptv.catvod.com/catvod?id=CCTV5&line=12
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
+https://iptv.catvod.com/catvod?id=CCTV5&line=5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
+https://iptv.catvod.com/catvod?id=CCTV5&line=10
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 https://iptv.catvod.com/catvod?id=CCTV5&line=7
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
@@ -122,11 +122,11 @@ http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
 http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=20251123060031e90ac48866a04991929f4bfb49f57c94&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20251123060031&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.13.250.89&SecurityKey=20251123060031&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3b3029636971ead0745abb4811df61b5&ddCalcu=53bbe132601f20d916138649b7b1ae5a4d70
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
-https://iptv.catvod.com/catvod?id=CCTV6&line=12
+https://iptv.catvod.com/catvod?id=CCTV6&line=10
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
 https://iptv.catvod.com/catvod?id=CCTV6&line=9
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
-https://iptv.catvod.com/catvod?id=CCTV6&line=10
+https://iptv.catvod.com/catvod?id=CCTV6&line=12
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
 https://www.freetv.top/migu/624878396.m3u8?migutoken=ee6c3d925888b2938ca61a2c94d84986ff15ec0fedd3e1e35bcf4ffada20fbeead007033b33efc350632bb959d9bee9da36bac91ec304513f63032fb12e8f570416fc533ede1c4ef94197eb07c
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
@@ -142,39 +142,39 @@ https://www.freetv.top/migu/624878396.m3u8?migutoken=cf8aa2ae484a26a284790c996f4
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
 https://www.freetv.top/migu/624878396.m3u8?migutoken=62041d20d3c5ab1363a336c30747d7b00d6f970a1f7c9ccafcdeb162f4b0699991e7ba314783d67cb75e376a53e97196434000e0b828510251239944c4391f00b3b73d86f2bc177b5d5afca34a
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
-https://iptv.catvod.com/catvod?id=CCTV7&line=3
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
-https://iptv.catvod.com/catvod?id=CCTV7&line=6
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
-https://iptv.catvod.com/catvod?id=CCTV7&line=2
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
-https://iptv.catvod.com/catvod?id=CCTV7&line=9
+https://iptv.catvod.com/catvod?id=CCTV7&line=5
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
 https://iptv.catvod.com/catvod?id=CCTV7&line=1
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
-https://iptv.catvod.com/catvod?id=CCTV7&line=4
+https://iptv.catvod.com/catvod?id=CCTV7&line=8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
-https://iptv.catvod.com/catvod?id=CCTV7&line=5
+https://iptv.catvod.com/catvod?id=CCTV7&line=9
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
+https://iptv.catvod.com/catvod?id=CCTV7&line=3
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
+https://iptv.catvod.com/catvod?id=CCTV7&line=2
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
 https://iptv.catvod.com/catvod?id=CCTV7&line=7
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
-https://iptv.catvod.com/catvod?id=CCTV7&line=8
+https://iptv.catvod.com/catvod?id=CCTV7&line=4
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
+https://iptv.catvod.com/catvod?id=CCTV7&line=6
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
 http://hao6688.3322.org:30066/stream/channelid/1148086425?ticket=e76bf68e07a2575de88adc9bb16d985fff3cb3ea&profile=pass
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
-https://iptv.catvod.com/live.php?id=CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85&line=2
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
-https://iptv.catvod.com/catvod?id=CCTV8&line=12
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
-https://iptv.catvod.com/catvod?id=CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85&line=2
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
-https://iptv.catvod.com/catvod?id=CCTV8&line=5
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
 https://iptv.catvod.com/catvod?id=CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85&line=1
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
 https://iptv.catvod.com/catvod?id=CCTV8&line=8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
+https://iptv.catvod.com/live.php?id=CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85&line=2
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
+https://iptv.catvod.com/catvod?id=CCTV8&line=5
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
 https://iptv.catvod.com/catvod?id=CCTV8&line=13
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
+https://iptv.catvod.com/catvod?id=CCTV8&line=12
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
+https://iptv.catvod.com/catvod?id=CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85&line=2
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
 https://iptv.catvod.com/catvod?id=CCTV8&line=9
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
@@ -184,23 +184,23 @@ https://www.freetv.top/migu/624878356.m3u8?migutoken=a5eae829671ac326f37a16f6553
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
 https://iptv.catvod.com/live.php?id=CCTV9&line=8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
-https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d872f00c516e7fa60ee46c69920afb7c
+https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=12e324365e5fe37f99c3757e36709fd0
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a1dcb3110434cc8e66757634e6b826a4
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=8a8981af2f3a856a831fb84e43f83f92
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b1d16e9d92395e2609243096620fa89c
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
 https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=36abc1b7a1c52da710d04974b333874b
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
-https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=8a8981af2f3a856a831fb84e43f83f92
+https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d872f00c516e7fa60ee46c69920afb7c
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
 https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=910ec988ef27e511059eb5aa1308244e
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
 https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=06d61993614312350fe8ed0861a8be3d
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
-https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=12e324365e5fe37f99c3757e36709fd0
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
 https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=73b69ea221be0bd00d6e465f10653101
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
-https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a1dcb3110434cc8e66757634e6b826a4
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
-https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b1d16e9d92395e2609243096620fa89c
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
 https://iptv.catvod.com/catvod?id=CCTV10&line=8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
@@ -222,11 +222,9 @@ https://migu.188766.xyz/?migutoken=004657411250d683bc64af883c2be84d&id=CCTV10&ty
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
 http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=2025112106003592285726e4b5403996064d02bddacd96&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20251121060035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=106.13.250.90&SecurityKey=20251121060035&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=78a3a508c6a544a14cdeea62e525e35e&ddCalcu=e758e3a2e345a02550e82c66aae5e4d4ca41
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
-https://iptv.catvod.com/catvod?id=CCTV11&line=6
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
 https://iptv.catvod.com/catvod?id=CCTV11&line=3
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
-http://hao6688.3322.org:30066/stream/channelid/1853027132?ticket=139976274b987e374e5816089cb1ae8aedbacc74&profile=pass
+https://iptv.catvod.com/catvod?id=CCTV11&line=6
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
 https://smart.pendy.dpdns.org/Smart.php?id=cctv11
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
@@ -241,10 +239,12 @@ https://www.freetv.top/migu/667987558.m3u8?migutoken=16827d54043eba69d051685229b
 https://www.freetv.top/migu/667987558.m3u8?migutoken=dbfc420c420e30228efe23e562fc0ee670a65ddac45cc355845b855f27a4e5ba04a7e18d73eb58be7427a4bed6ef9056659fbcf58979a56ccbe84899cfdf0644fc1215333ca6210639196795f2
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
 https://www.freetv.top/migu/667987558.m3u8?migutoken=14896515d1514a4437b9fc787f82cc339fe93aeeb6c156d0db550c36ad47ad15227653e5e1212a901544141c80eaeb141492d17e72b51ec0f8367c6081e6f56027d717b45ee0502bd44fc7b295
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
-https://iptv.catvod.com/catvod?id=CCTV12&line=9
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
+https://www.freetv.top/migu/667987558.m3u8?migutoken=0960d7e074be53abeacd988e7daaca6d1477b1f255f98a01c33c7adf74ac246fe65a23451c3cff9b1203a6285cec778b6d488bd805e9d2433abe3ca23eb24e4f2a5f36bba821773558e1dec231
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
 https://iptv.catvod.com/catvod?id=CCTV12&line=6
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
+https://iptv.catvod.com/catvod?id=CCTV12&line=9
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
 https://iptv.catvod.com/catvod?id=CCTV12&line=5
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
@@ -262,37 +262,37 @@ https://www.freetv.top/migu/673168185.m3u8?migutoken=dd69c6da4ca875bfa3b2c373a89
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
 https://www.freetv.top/migu/673168185.m3u8?migutoken=2c8ff357aa2421f58bdbe7599a401e91b4e82c915fb4cdc01b7b5958d324557b8fe0b9dfc2848124c14b3c90fbeeaaec9a973e08efe51011771d0fbfcdfb36bbb23ba40211547f349c501b6997
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-https://iptv.catvod.com/catvod?id=CCTV13&line=6
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-https://iptv.catvod.com/catvod?id=CCTV13&line=12
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-https://iptv.catvod.com/catvod?id=CCTV13&line=9
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-https://iptv.catvod.com/catvod?id=CCTV13&line=8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-https://iptv.catvod.com/catvod?id=CCTV13&line=4
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-https://iptv.catvod.com/catvod?id=CCTV13&line=2
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-https://iptv.catvod.com/catvod?id=CCTV13&line=7
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-https://iptv.catvod.com/catvod?id=CCTV13&line=10
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://iptv.catvod.com/catvod?id=CCTV13&line=11
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://iptv.catvod.com/catvod?id=CCTV13&line=5
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
+https://iptv.catvod.com/catvod?id=CCTV13&line=12
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
+https://iptv.catvod.com/catvod?id=CCTV13&line=3
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
+https://iptv.catvod.com/catvod?id=CCTV13&line=7
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
+https://iptv.catvod.com/catvod?id=CCTV13&line=1
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
+https://iptv.catvod.com/catvod?id=CCTV13&line=4
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
+https://iptv.catvod.com/catvod?id=CCTV13&line=8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
+https://iptv.catvod.com/catvod?id=CCTV13&line=10
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
+https://iptv.catvod.com/catvod?id=CCTV13&line=2
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
+https://iptv.catvod.com/catvod?id=CCTV14&line=8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
+https://iptv.catvod.com/catvod?id=CCTV14&line=5
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
+https://iptv.catvod.com/catvod?id=CCTV14&line=7
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
 https://iptv.catvod.com/catvod?id=CCTV14&line=6
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
 https://iptv.catvod.com/catvod?id=CCTV14&line=4
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
 https://iptv.catvod.com/catvod?id=CCTV14&line=9
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
-https://iptv.catvod.com/catvod?id=CCTV14&line=5
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
-https://iptv.catvod.com/catvod?id=CCTV14&line=8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
-https://iptv.catvod.com/catvod?id=CCTV14&line=7
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
 http://hao6688.3322.org:30066/stream/channelid/1608371197?ticket=9bc0812da9f7687a1f233bcc8358c2df22002353&profile=pass
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
@@ -302,13 +302,13 @@ https://event.pull.hebtv.com/jishi/cp2.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
 https://www.freetv.top/migu/624878440.m3u8?migutoken=db2a84fa1a47ccda35261252e35f997e2e7083da0db8369cf0612848c30e97efb2851cf91c1ca38b261647c5e104e3ee881d60d1da85f1e4748958fe7c4d93689021888fe45fbaa99a6e1e45b9
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
-https://iptv.catvod.com/catvod?id=CCTV15&line=6
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
 https://iptv.catvod.com/catvod?id=CCTV15&line=5
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
-https://iptv.catvod.com/catvod?id=CCTV15&line=7
+https://iptv.catvod.com/catvod?id=CCTV15&line=6
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
 https://iptv.catvod.com/catvod?id=CCTV15%E9%9F%B3%E4%B9%90&line=1
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
+https://iptv.catvod.com/catvod?id=CCTV15&line=7
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
 https://iptv.catvod.com/catvod?id=CCTV15&line=4
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
@@ -342,9 +342,9 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺央视频道",CCTV-16
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227074/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
-https://iptv.catvod.com/catvod?id=CCTV17&line=4
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
 https://iptv.catvod.com/catvod?id=CCTV17&line=6
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
+https://iptv.catvod.com/catvod?id=CCTV17&line=4
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
 https://iptv.catvod.com/catvod?id=CCTV17&line=7
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
@@ -364,13 +364,13 @@ https://www.freetv.top/migu/673168256.m3u8?migutoken=cd9ac55fddf5f22ac004018cec6
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
 https://iptv.catvod.com/catvod?id=CETV1&line=5
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
-https://iptv.catvod.com/catvod?id=CETV1&line=3
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
 https://iptv.catvod.com/catvod?id=CETV1&line=1
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
 https://iptv.catvod.com/catvod?id=CETV1&line=2
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
 https://iptv.catvod.com/catvod?id=CETV1&line=4
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
+https://iptv.catvod.com/catvod?id=CETV1&line=3
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
 https://migu.188766.xyz/?migutoken=46429d4517938efceaf0f89b8dad379a&id=CETV1&type=yy
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
@@ -478,11 +478,11 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16 4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16 4k.png" group-title="4K频道",CCTV16 4k
 https://t.freetv.fun/live/cctv16-5.php
 #EXTINF:-1 tvg-name="湖南卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视4k.png" group-title="4K频道",湖南卫视4k
-https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=4
-#EXTINF:-1 tvg-name="湖南卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视4k.png" group-title="4K频道",湖南卫视4k
 https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-name="湖南卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视4k.png" group-title="4K频道",湖南卫视4k
 https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=3
+#EXTINF:-1 tvg-name="湖南卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视4k.png" group-title="4K频道",湖南卫视4k
+https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=4
 #EXTINF:-1 tvg-name="湖南卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视4k.png" group-title="4K频道",湖南卫视4k
 https://migu.188766.xyz/?migutoken=d1a2664d50df635724ab494d3f37b65f&id=hnws&type=sz
 #EXTINF:-1 tvg-name="湖南卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视4k.png" group-title="4K频道",湖南卫视4k
@@ -498,21 +498,21 @@ https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B
 #EXTINF:-1 tvg-name="湖南卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视4k.png" group-title="4K频道",湖南卫视4k
 https://migu.188766.xyz/?migutoken=32d496af23193ad081355a4f61502236&id=hnws&type=sz
 #EXTINF:-1 tvg-name="浙江卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视4k.png" group-title="4K频道",浙江卫视4k
-https://iptv.catvod.com/catvod?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=3
+https://iptv.catvod.com/catvod?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=8
+#EXTINF:-1 tvg-name="浙江卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视4k.png" group-title="4K频道",浙江卫视4k
+https://iptv.catvod.com/catvod?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=5
+#EXTINF:-1 tvg-name="浙江卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视4k.png" group-title="4K频道",浙江卫视4k
+https://iptv.catvod.com/catvod?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-name="浙江卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视4k.png" group-title="4K频道",浙江卫视4k
 https://iptv.catvod.com/catvod?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=4
 #EXTINF:-1 tvg-name="浙江卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视4k.png" group-title="4K频道",浙江卫视4k
 https://iptv.catvod.com/catvod?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-name="浙江卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视4k.png" group-title="4K频道",浙江卫视4k
-https://iptv.catvod.com/catvod?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=5
-#EXTINF:-1 tvg-name="浙江卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视4k.png" group-title="4K频道",浙江卫视4k
 https://iptv.catvod.com/catvod?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=6
 #EXTINF:-1 tvg-name="浙江卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视4k.png" group-title="4K频道",浙江卫视4k
+https://iptv.catvod.com/catvod?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=3
+#EXTINF:-1 tvg-name="浙江卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视4k.png" group-title="4K频道",浙江卫视4k
 https://iptv.catvod.com/catvod?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=7
-#EXTINF:-1 tvg-name="浙江卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视4k.png" group-title="4K频道",浙江卫视4k
-https://iptv.catvod.com/catvod?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=2
-#EXTINF:-1 tvg-name="浙江卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视4k.png" group-title="4K频道",浙江卫视4k
-https://iptv.catvod.com/catvod?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=8
 #EXTINF:-1 tvg-name="浙江卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视4k.png" group-title="4K频道",浙江卫视4k
 https://migu.188766.xyz/?migutoken=3711c8a10ca0e4c4b9d69d18bdce4b7a&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
 #EXTINF:-1 tvg-name="浙江卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视4k.png" group-title="4K频道",浙江卫视4k
@@ -522,11 +522,11 @@ https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f2607
 #EXTINF:-1 tvg-name="四川卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视4k.png" group-title="4K频道",四川卫视4k
 https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="四川卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视4k.png" group-title="4K频道",四川卫视4k
-https://iptv.catvod.com/catvod?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&line=1
+https://iptv.catvod.com/catvod?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-name="四川卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视4k.png" group-title="4K频道",四川卫视4k
 https://iptv.catvod.com/catvod?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-name="四川卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视4k.png" group-title="4K频道",四川卫视4k
-https://iptv.catvod.com/catvod?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&line=2
+https://iptv.catvod.com/catvod?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-name="四川卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视4k.png" group-title="4K频道",四川卫视4k
 https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K%E5%8F%B0
 #EXTINF:-1 tvg-name="四川卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视4k.png" group-title="4K频道",四川卫视4k
@@ -860,9 +860,9 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001229/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📡卫视频道",河北卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227408/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
-http://1.94.31.214/php/hntv.php?id=hnws
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 https://live.264788.xyz/channel/henanweishi?streamid=dcdac731c38e259d3931e4f3127849c4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
+http://1.94.31.214/php/hntv.php?id=hnws
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 https://www.freetv.top/migu/790187291.m3u8?migutoken=3fa5112cca2c2ce74028510dfbaacbc2dce25969982adc457060f0def4c56e2d5efdeb3d0e4ef181a2255dd07c1e7723b5bee70da78172e50618743c5eac8808279282803f9488156ec4d7dbac
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
@@ -902,23 +902,23 @@ https://migu.188766.xyz/?migutoken=3a1057ff980f54a8ea86990af0b9cbb2&id=%E5%90%89
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 https://live.264788.xyz/channel/jiangsuweishi4k?streamid=375dbc290331f86f70689c85cd16e1eb&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
-https://live.264788.xyz/channel/jiangsuweishi4k?streamid=306fa7c5a3bb1b091331de3a638c01b0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=6
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
-https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=9
+https://live.264788.xyz/channel/jiangsuweishi4k?streamid=306fa7c5a3bb1b091331de3a638c01b0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
-https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=6
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=7
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
-https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=10
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 https://www.freetv.top/migu/623899368.m3u8?migutoken=89adf8885d4f1f9dee34a4e8d60f187e5b071ac9b79001260a0b66da9027070e0b861510da93cb5190da002ca87645e63e57bada2c65f959e8ef81f693c239f194d683ba2083252bbb0caeab96
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 https://www.freetv.top/migu/623899368.m3u8?migutoken=eeab3d17b63b4c7e121ca8b24be0708254418f2e6cf6a24e94e18f79f97719fcea9930b4df2add6349f47b4bbb429f376c6d63c64916f5c43cdc2c87c201be1688d9db3211827c78605443a1f0
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 https://www.freetv.top/migu/623899368.m3u8?migutoken=a05a40d6e6ed59e05b38b4ebfaa76f08e8b1477802d7e984802aa4997af44caac8ccf440496662d885f70a6d35fa54f4aa876e2a834e7f5026b626fb250dcc5d14ae02fa6247c3e070d256ea39
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+https://www.freetv.top/migu/623899368.m3u8?migutoken=3ec7add32f2108ed670e526f58207033f492fc81ffe6044df4e04bf88bca3cfbe3f1af7bd4fa10e5a6663f276475985da275dfa9a568feed08fbc90f40838156a2167089cb6b35aaaf231e8ae8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+https://www.freetv.top/migu/623899368.m3u8?migutoken=97c7334488eebe10f8c7b70518971ba643de7407f32f3bb9fa0a6ece2bce6efb9942dee16dfb87de86df53f96ada93dc655f3c7535b19ffce4a9f67172ff587bbab11924238b04bf91959f0cc5
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡卫视频道",江西卫视
 https://www.freetv.top/migu/783847495.m3u8?migutoken=b9ba9e2f06ddd219a9e3fb45641a0ba5c0b22ab5904c1b10ab603b4fe2eb30b2e40fdeba589cef7e7c40db7c4a0e66c90c48110a078a361a0975dd6ca0fd0a5de4c13b2c7699d4b0013a868ab6
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡卫视频道",江西卫视
@@ -1000,8 +1000,6 @@ http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisd
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
 http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=20251210080301b07e3cfde4d44b1fb0db0c4370604c0e&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20251210080301&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=218.28.233.106&SecurityKey=20251210080301&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=64106e4014df8ba12319d865a1208ed0&ddCalcu=06d4ve1a80z06a2e14a051648ddf981b3a21&sv=10004&ct=android
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="📡卫视频道",青海卫视
-https://live.264788.xyz/channel/qinghaiweishi?streamid=dc714dc6b6f61be169ea786a2dd7572d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="📡卫视频道",青海卫视
 https://stream1.freetv.fun/qing-hai-wei-shi-121.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="📡卫视频道",青海卫视
 https://stream1.freetv.fun/b6326e0b6756fb48fe4f9d486290138c0f6ff88c1dbeec97255267e2fd451f53.m3u8
@@ -1019,6 +1017,8 @@ https://stream1.freetv.fun/d6cb8a9b2d3d4f555418141ecb008cc61e84a6278690a855241eb
 https://stream1.freetv.fun/7e3962f35a8b86e1396f1ac3a1a18a0fa6965b348b567281c7b6725f4753fdc1.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="📡卫视频道",青海卫视
 https://stream1.freetv.fun/b5b07b167df730b58cf9a86c7cbfc510ed48a60dae25a97c9713a86d0f8076f7.m3u8
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="📡卫视频道",青海卫视
+https://stream1.freetv.fun/a4027c54f2c3b0e3ba6b7f3ac30c3b0484c92403303c0eb3b404b4bf93055b5f.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="📡卫视频道",山东卫视
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="📡卫视频道",山东卫视
@@ -1320,9 +1320,9 @@ https://t.freetv.fun/live/hu-zhou-gong-gong-3.m3u8
 #EXTINF:-1 tvg-name="湖州公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州公共.png" group-title="浙江频道",湖州公共
 https://t.freetv.fun/live/hu-zhou-gong-gong.m3u8
 #EXTINF:-1 tvg-name="湖州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州新闻综合.png" group-title="浙江频道",湖州新闻综合
-http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
-#EXTINF:-1 tvg-name="湖州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州新闻综合.png" group-title="浙江频道",湖州新闻综合
 http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865&fbl=
+#EXTINF:-1 tvg-name="湖州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州新闻综合.png" group-title="浙江频道",湖州新闻综合
+http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
 #EXTINF:-1 tvg-name="湖州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州新闻综合.png" group-title="浙江频道",湖州新闻综合
 https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
 #EXTINF:-1 tvg-name="湖州文化娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州文化娱乐.png" group-title="浙江频道",湖州文化娱乐
@@ -1346,17 +1346,15 @@ http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 #EXTINF:-1 tvg-name="浙江遂昌" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江遂昌.png" group-title="浙江频道",浙江遂昌
 http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 #EXTINF:-1 tvg-name="诸暨新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/诸暨新闻综合.png" group-title="浙江频道",诸暨新闻综合
-http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed#EXTINF:-1%20group-title=%22%E2%80%A2%E9%9F%B3%E4%B9%90%22,%E9%9F%B3%E4%B9%90%E7%9F%B3%E6%A6%B4
-#EXTINF:-1 tvg-name="诸暨新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/诸暨新闻综合.png" group-title="浙江频道",诸暨新闻综合
 http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
+#EXTINF:-1 tvg-name="诸暨新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/诸暨新闻综合.png" group-title="浙江频道",诸暨新闻综合
+http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed#EXTINF:-1%20group-title=%22%E2%80%A2%E9%9F%B3%E4%B9%90%22,%E9%9F%B3%E4%B9%90%E7%9F%B3%E6%A6%B4
 #EXTINF:-1 tvg-name="龙游生活娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙游生活娱乐.png" group-title="浙江频道",龙游生活娱乐
-http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
+http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 #EXTINF:-1 tvg-name="龙游生活娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙游生活娱乐.png" group-title="浙江频道",龙游生活娱乐
 https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 #EXTINF:-1 tvg-name="龙游生活娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙游生活娱乐.png" group-title="浙江频道",龙游生活娱乐
-http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-#EXTINF:-1 tvg-name="龙游新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙游新闻综合.png" group-title="浙江频道",龙游新闻综合
-https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="龙游新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙游新闻综合.png" group-title="浙江频道",龙游新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="龙泉新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙泉新闻综合.png" group-title="浙江频道",龙泉新闻综合
@@ -1364,17 +1362,23 @@ http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed,
 #EXTINF:-1 tvg-name="青田电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青田电视台.png" group-title="浙江频道",青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed?
 #EXTINF:-1 tvg-name="遂昌综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/遂昌综合.png" group-title="浙江频道",遂昌综合
+http://play-sh13.quklive.com/live/1708426592499070.m3u8?auth_key=2028414342-e92bda8423ad478c987a8b7ae82abe0e-0-c616f7fabb9675e1ed1d84d9edae7e07
+#EXTINF:-1 tvg-name="遂昌综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/遂昌综合.png" group-title="浙江频道",遂昌综合
 http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
+#EXTINF:-1 tvg-name="遂昌综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/遂昌综合.png" group-title="浙江频道",遂昌综合
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8zzhed
 #EXTINF:-1 tvg-name="象山综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象山综合.png" group-title="浙江频道",象山综合
 http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
+#EXTINF:-1 tvg-name="象山综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象山综合.png" group-title="浙江频道",象山综合
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="衢江新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/衢江新闻综合.png" group-title="浙江频道",衢江新闻综合
 https://t.freetv.fun/live/qu-jiang-xin-wen-zong-he.m3u8
 #EXTINF:-1 tvg-name="萧山生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/萧山生活.png" group-title="浙江频道",萧山生活
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed?
 #EXTINF:-1 tvg-name="萧山生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/萧山生活.png" group-title="浙江频道",萧山生活
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
-#EXTINF:-1 tvg-name="萧山生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/萧山生活.png" group-title="浙江频道",萧山生活
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1 tvg-name="萧山生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/萧山生活.png" group-title="浙江频道",萧山生活
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="萧山新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/萧山新闻综合.png" group-title="浙江频道",萧山新闻综合
 https://t.freetv.fun/live/xiao-shan-xin-wen-zong-he-2.m3u8
 #EXTINF:-1 tvg-name="萧山新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/萧山新闻综合.png" group-title="浙江频道",萧山新闻综合
@@ -1386,17 +1390,17 @@ https://t.freetv.fun/live/cang-nan-xin-wen-zong-he-2.m3u8
 #EXTINF:-1 tvg-name="苍南新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/苍南新闻综合.png" group-title="浙江频道",苍南新闻综合
 https://t.freetv.fun/live/cang-nan-xin-wen-zong-he.m3u8
 #EXTINF:-1 tvg-name="缙云综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/缙云综合.png" group-title="浙江频道",缙云综合
-http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed?
-#EXTINF:-1 tvg-name="缙云综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/缙云综合.png" group-title="浙江频道",缙云综合
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-name="缙云新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/缙云新闻综合.png" group-title="浙江频道",缙云新闻综合
-http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+#EXTINF:-1 tvg-name="缙云综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/缙云综合.png" group-title="浙江频道",缙云综合
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed?
 #EXTINF:-1 tvg-name="缙云新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/缙云新闻综合.png" group-title="浙江频道",缙云新闻综合
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?fbl=
-#EXTINF:-1 tvg-name="绍兴电视台公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/绍兴电视台公共.png" group-title="浙江频道",绍兴电视台公共
-http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed#http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 tvg-name="缙云新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/缙云新闻综合.png" group-title="浙江频道",缙云新闻综合
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 #EXTINF:-1 tvg-name="绍兴电视台公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/绍兴电视台公共.png" group-title="浙江频道",绍兴电视台公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1 tvg-name="绍兴电视台公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/绍兴电视台公共.png" group-title="浙江频道",绍兴电视台公共
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed#http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 #EXTINF:-1 tvg-name="绍兴新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/绍兴新闻综合.png" group-title="浙江频道",绍兴新闻综合
 https://t.freetv.fun/live/shao-xing-xin-wen-zong-he-2.m3u8
 #EXTINF:-1 tvg-name="绍兴新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/绍兴新闻综合.png" group-title="浙江频道",绍兴新闻综合
@@ -1432,23 +1436,23 @@ https://t.freetv.fun/live/yong-jia-xin-wen-zong-he-1.m3u8
 #EXTINF:-1 tvg-name="永嘉新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/永嘉新闻综合.png" group-title="浙江频道",永嘉新闻综合
 https://t.freetv.fun/live/yong-jia-xin-wen-zong-he.m3u8
 #EXTINF:-1 tvg-name="武义新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武义新闻综合.png" group-title="浙江频道",武义新闻综合
-http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed,
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 #EXTINF:-1 tvg-name="武义新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武义新闻综合.png" group-title="浙江频道",武义新闻综合
 http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="武义新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武义新闻综合.png" group-title="浙江频道",武义新闻综合
-http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed,
 #EXTINF:-1 tvg-name="武义新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武义新闻综合.png" group-title="浙江频道",武义新闻综合
 https://stream1.freetv.fun/wu-yi-xin-wen-zong-he-3.m3u8
 #EXTINF:-1 tvg-name="松阳综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/松阳综合.png" group-title="浙江频道",松阳综合
 http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
 #EXTINF:-1 tvg-name="松阳新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/松阳新闻综合.png" group-title="浙江频道",松阳新闻综合
-http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
-#EXTINF:-1 tvg-name="松阳新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/松阳新闻综合.png" group-title="浙江频道",松阳新闻综合
 http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?fbl=
-#EXTINF:-1 tvg-name="普陀电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/普陀电视台.png" group-title="浙江频道",普陀电视台
-https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+#EXTINF:-1 tvg-name="松阳新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/松阳新闻综合.png" group-title="浙江频道",松阳新闻综合
+http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
 #EXTINF:-1 tvg-name="普陀电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/普陀电视台.png" group-title="浙江频道",普陀电视台
 http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+#EXTINF:-1 tvg-name="普陀电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/普陀电视台.png" group-title="浙江频道",普陀电视台
+https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 #EXTINF:-1 tvg-name="普陀新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/普陀新闻综合.png" group-title="浙江频道",普陀新闻综合
 http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="普陀新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/普陀新闻综合.png" group-title="浙江频道",普陀新闻综合
@@ -1476,21 +1480,21 @@ https://stream1.freetv.fun/kai-hua-xin-wen-zong-he-2.ctv
 #EXTINF:-1 tvg-name="开化国家公园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/开化国家公园.png" group-title="浙江频道",开化国家公园
 http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="开化国家公园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/开化国家公园.png" group-title="浙江频道",开化国家公园
-http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
-#EXTINF:-1 tvg-name="开化国家公园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/开化国家公园.png" group-title="浙江频道",开化国家公园
 http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 #EXTINF:-1 tvg-name="开化国家公园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/开化国家公园.png" group-title="浙江频道",开化国家公园
 http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed
+#EXTINF:-1 tvg-name="开化国家公园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/开化国家公园.png" group-title="浙江频道",开化国家公园
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 #EXTINF:-1 tvg-name="庆元综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/庆元综合.png" group-title="浙江频道",庆元综合
 http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
 #EXTINF:-1 tvg-name="庆元新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/庆元新闻综合.png" group-title="浙江频道",庆元新闻综合
 http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
 #EXTINF:-1 tvg-name="平湖民生休闲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/平湖民生休闲.png" group-title="浙江频道",平湖民生休闲
-http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
-#EXTINF:-1 tvg-name="平湖民生休闲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/平湖民生休闲.png" group-title="浙江频道",平湖民生休闲
 http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
 #EXTINF:-1 tvg-name="平湖民生休闲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/平湖民生休闲.png" group-title="浙江频道",平湖民生休闲
 http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+#EXTINF:-1 tvg-name="平湖民生休闲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/平湖民生休闲.png" group-title="浙江频道",平湖民生休闲
+http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="平湖新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/平湖新闻综合.png" group-title="浙江频道",平湖新闻综合
 https://t.freetv.fun/live/ping-hu-xin-wen-zong-he-1.m3u8
 #EXTINF:-1 tvg-name="平湖新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/平湖新闻综合.png" group-title="浙江频道",平湖新闻综合
@@ -1506,11 +1510,11 @@ https://stream1.freetv.fun/sheng-zhou-xin-wen-zong-he-1.m3u8
 #EXTINF:-1 tvg-name="嵊泗新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嵊泗新闻综合.png" group-title="浙江频道",嵊泗新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 #EXTINF:-1 tvg-name="嵊州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嵊州新闻综合.png" group-title="浙江频道",嵊州新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 tvg-name="嵊州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嵊州新闻综合.png" group-title="浙江频道",嵊州新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 tvg-name="嵊州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嵊州新闻综合.png" group-title="浙江频道",嵊州新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
+#EXTINF:-1 tvg-name="嵊州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嵊州新闻综合.png" group-title="浙江频道",嵊州新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 tvg-name="嵊州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嵊州新闻综合.png" group-title="浙江频道",嵊州新闻综合
 rtmp://play-sh11.quklive.com/live/1626935015913208
 #EXTINF:-1 tvg-name="嵊州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嵊州新闻综合.png" group-title="浙江频道",嵊州新闻综合
@@ -1525,22 +1529,18 @@ http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?cWlkPSZzPTg3OWMwYmMy
 http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 #EXTINF:-1 tvg-name="余杭未来E" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/余杭未来E.png" group-title="浙江频道",余杭未来E
 http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
-#EXTINF:-1 tvg-name="余姚综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/余姚综合.png" group-title="浙江频道",余姚综合
-http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="余姚新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/余姚新闻综合.png" group-title="浙江频道",余姚新闻综合
-http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1 tvg-name="余姚姚江文化" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/余姚姚江文化.png" group-title="浙江频道",余姚姚江文化
 https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 #EXTINF:-1 tvg-name="云和新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云和新闻综合.png" group-title="浙江频道",云和新闻综合
-http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-name="云和新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云和新闻综合.png" group-title="浙江频道",云和新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+#EXTINF:-1 tvg-name="云和新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云和新闻综合.png" group-title="浙江频道",云和新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="东阳影视生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东阳影视生活.png" group-title="浙江频道",东阳影视生活
 http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 #EXTINF:-1 tvg-name="上虞新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上虞新闻综合.png" group-title="浙江频道",上虞新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
-#EXTINF:-1 tvg-name="上虞新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上虞新闻综合.png" group-title="浙江频道",上虞新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="上虞新商都" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上虞新商都.png" group-title="浙江频道",上虞新商都
 https://t.freetv.fun/live/shang-yu-xin-shang-du-1.m3u8
 #EXTINF:-1 tvg-name="上虞新商都" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上虞新商都.png" group-title="浙江频道",上虞新商都
@@ -1812,9 +1812,9 @@ https://www.freetv.top/migu/673168223.m3u8?migutoken=b3f5f563a0e87a8d4215ce2f21d
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
 https://www.freetv.top/migu/673168223.m3u8?migutoken=f24124cb55ee7b2392bae373bd81ba8f267bc2ab7ff065b93c9b9e9674236b624bab04f3f6a2e4d12149cfe81b19760c763b8fba1369d0d4092281bada4eff6ba6d823c0c43e451911f5b20872
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="🎵音乐频道",风云音乐
-https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b323da27e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="🎵音乐频道",风云音乐
 https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="🎵音乐频道",风云音乐
+https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b323da27e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="🎵音乐频道",风云音乐
 http://107.150.60.122/live/fyyy.m3u8
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="🎵音乐频道",风云音乐
@@ -1822,9 +1822,9 @@ http://www.qfly9236.cn:8888/rtp/239.253.92.111:8060
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="🎵音乐频道",风云音乐
 https://t.freetv.fun/live/cctvfeng-yun-yin-le.php
 #EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐现场.png" group-title="🎵音乐频道",音乐现场
-http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐现场.png" group-title="🎵音乐频道",音乐现场
 https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐现场.png" group-title="🎵音乐频道",音乐现场
+http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 #EXTINF:-1 tvg-name="潮流音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮流音乐.png" group-title="🎵音乐频道",潮流音乐
 http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 #EXTINF:-1 tvg-name="音乐广播" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐广播.png" group-title="🎵音乐频道",音乐广播
