@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-18 06:58:44,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-07-18 19:15:12,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -22,6 +22,7 @@ CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=0bbd368e56ca239424f7
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=6f589f929945331767ef466f5f4cb6ccee0346b95c4bae5bbd6b99321f160d076257570ccc9b882f37a0bd95f05b1a1b9830393bd269f71445b0e5d01684c40a8cf16759a5bbdf9d5dff243250
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=8a73f9dbcc6da55c0bb099a7d335fcdb754c606cf8a5e21cb3b84173052074a311761bfb95b1cf7185e4db2b24a0b5d21a4807e6b6bf8c462395f81b3895c1026a645db32431ff0cf541e1991f
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=11ecfe0a296dcd532df72244565e20008b5a2e6936c05e73d9c90abe54b5bbffc942f2912e3fdd518714c4a7ad984beed028d07db3d49b8d1e21c54686ebfa8546f79a57d969866753cca722cc
+CCTV-3,http://204.12.221.218:8181/3m1080p/cctv3.m3u8
 CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=cc5fda32f92c3778b4ec917c6edfddfb427acd161372f4acf6deb16520a123904ce79198d9cf1f7cc96dea7795d561a75b2b3581a0bfcffa303d18f45a217ff78e8dcdaf915667846e1465145a
 CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=583eb8c5c48e5b14a4f782b43058efc16d128e0d4fa47e5b0814dfe842c8a8951d803a45a71656bc7fff6ba305cfbcd3d55909a119e8d9c1456b3842378e809ded8d3aa6cd633c2eadcab87259
 CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=ca824f02f6213b64bc94ece82f051a14d6b4b3a0a87493655d302b6c76e29668b57118071931e320faddacacabcb320684e805e3e5b3fdd4465a65f9bc6eac1ff4f24f1c0cde6a2a5cd9a8553a
@@ -31,7 +32,6 @@ CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=6051cf0f824b7432a7e3
 CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=26f112920b7d750d5c237dcfeea880c9e4f73d9f9c90ed6628cd1e3b0e4c1424eb700fa97ef3b1a8d3676d047db35285709219d8e971f98e2b095ef2d7c3c343a9df476c13a0daee16c74e7478
 CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=51e795d34fc334fbfef3a00a9e095b441f8925223bf27482f2ced0a43e8533d469a5ced1cafaef5b17edf9089617ff31ded949f9e74e8844747cb04332f3d81a317734e4e8f189538db2f108a7
 CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=2d13be95db5e58e97f6fa8da49abb89867168be140fac8df0accbbab11e6fc7f6e78cdef9168ed3f65951dadc9feafdc5ede7bbcc43c0d4c7f9510c146a2309333483f883a0be4b76da20ed280
-CCTV-3,http://www.freetv.top/migu/624878271.m3u8?migutoken=21306af96cf9259457600792df858b0d339bc7203aeb7e1a6ee6ec6ec3832a2736936029fe2583dcf971676870fdf0afbdee5be786e50af2ac6a8825673cc860d7988f44d0c5c4bc1931259698
 CCTV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
 CCTV-4,http://z.b.bkpcp.top/m.php?id=CCTV-4国际
 CCTV-4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
@@ -133,6 +133,7 @@ CCTV-12,https://www.freetv.top/migu/673168185.m3u8?migutoken=a099c4781935e65ce14
 CCTV-12,http://www.freetv.top/migu/673168185.m3u8?migutoken=21a3954b28c73a4240272889ec94c3318c23068f666c79e61379cb154a890e4e7e3c998a578b29a381972f128751898531cb713221ff95385afec91149321ad772e31489fa01e553c8223e976a
 CCTV-12,https://migu.188766.xyz/?migutoken=fba2ab88e4ac06a61612aa933eefb4c6&id=CCTV12&type=yy
 CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=bbbd054778ab532edfa97bf7c5395746&wsTime=6a544fee&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&t_id=037-2026071310394131FD5A22CCB9DDAFA77E-5XIF43
+CCTV-13,http://125.42.148.25:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
@@ -141,7 +142,6 @@ CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=ac19a58805588401a8e
 CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=d04a0fbe708570ac8859ed559ac6241f3a9da203b9f1dcecbbb627c30fca3aac016d99c7e9dc1efa5b5bd973de8170af65d84d3bfdc932709679f2a688284458be83238ceef24aa5196ad54167
 CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=c2389cf5194aa51126151d56817f4b78c648be26d653da0ba123aedb4ac3bc7cf448bdf7e94a38f8a1d5ef942bd7584f21130d1702c97093596d8bf121dc9e10697c48b323b813404c8eff9ed6
 CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=ac75a7b224f6d682c32c041ab4e0382dbb3ff875e9f9296ab33b8f3b7d44ac493d7bf97160232973e9f25fe71232f5180c8fe73aaee23768741e101519263d172ad60f77351699f0863c60b8ff
-CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=b0ebf450385413f8d70e72a92ceba03e41170d59df1374472666311b9a1b26c2665ac29d287ef869f8998593325508eed5b09a4020d14bc557a3fe580eea0c0f4c2c13a4581ddb400575b8d3e9
 CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=239edad94ac0bbff14f123c7f8996ed7639110bd6cf64ec8ba8cf85842224956d452ec8b683385cb27f8a7685224a03e3aa4d914b8fe33249da9df699351b105c795452d03f2be0a1f1e39adb0
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=db2a84fa1a47ccda35261252e35f997e2e7083da0db8369cf0612848c30e97efb2851cf91c1ca38b261647c5e104e3ee881d60d1da85f1e4748958fe7c4d93689021888fe45fbaa99a6e1e45b9
@@ -337,7 +337,6 @@ CCTV16 4k,https://t.freetv.fun/live/cctv16-5.php
 湖北卫视,https://www.freetv.top/migu/947472496.m3u8?migutoken=9e0b6e23bb7725ae05db38e94560710be0065754e80ee0fe715dae0c732fefe350b5f8d87d396729f775bdbbff23ab9be7803bc3259bbcf04aeb009ddf7ef6cc8c478a5721202f4e2a0946836a
 湖北卫视,https://migu.188766.xyz/?migutoken=47b6fca71121b93239a1d4a462e27f63&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
 湖北卫视,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=20251121060038db6ef6dd32ba401bb8259fc351e4e2e6&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20251121060038&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=106.13.250.90&SecurityKey=20251121060038&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1b70cb2144cc9e9a3c263faf6a02f5a6&ddCalcu=61abe572f072c00ba261f4a4fc3c692ec93a
-黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86
@@ -347,7 +346,7 @@ CCTV16 4k,https://t.freetv.fun/live/cctv16-5.php
 黑龙江卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001031/index.m3u8
 黑龙江卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226749/index.m3u8
 黑龙江卫视,http://ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
-安徽卫视,http://182.37.41.46:8154/tsfile/live/0130_1.m3u8?key=txiptv
+黑龙江卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226145/index.m3u8
 安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E5%8F%B0
 安徽卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007224/main.m3u8?stbid=
 安徽卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226746/index.m3u8
@@ -357,6 +356,7 @@ CCTV16 4k,https://t.freetv.fun/live/cctv16-5.php
 安徽卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226196/index.m3u8
 安徽卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226856/index.m3u8
 安徽卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001037/index.m3u8
+安徽卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182280/main.m3u8?stbid=
 重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86%E5%8F%B0
 重庆卫视,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=202512080802597a08d06eac4a45549ad09db5d96a6c0e&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20251208080259&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=218.28.233.106&SecurityKey=20251208080259&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=9f60021d18c1d0cf85bf7d6faa1f05f2&ddCalcu=29ffv56a00lf0a12a1adf168dc71fdb05c8f&sv=10004&ct=android
 重庆卫视,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=202512090803363f7854e5c40c4b3aae86db6fc3cabda6&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20251209080336&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=218.28.233.106&SecurityKey=20251209080336&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d179f6fe906c9c56f7ecb41a35e136a6&ddCalcu=6da1v67a39l1fae65f3ea91046bcc9ec75f6&sv=10004&ct=android
@@ -668,8 +668,8 @@ CCTV16 4k,https://t.freetv.fun/live/cctv16-5.php
 湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong-2.m3u8
 湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong-3.m3u8
 湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong.m3u8
-湖州新闻综合,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865&fbl=
 湖州新闻综合,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
+湖州新闻综合,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865&fbl=
 湖州新闻综合,https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
 湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887&fbl=
 湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
@@ -682,16 +682,15 @@ CCTV16 4k,https://t.freetv.fun/live/cctv16-5.php
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
-诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed#EXTINF:-1%20group-title=%22%E2%80%A2%E9%9F%B3%E4%B9%90%22,%E9%9F%B3%E4%B9%90%E7%9F%B3%E6%A6%B4
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
+诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed#EXTINF:-1%20group-title=%22%E2%80%A2%E9%9F%B3%E4%B9%90%22,%E9%9F%B3%E4%B9%90%E7%9F%B3%E6%A6%B4
 诸暨新闻综合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
-龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
 龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed?
 遂昌综合,http://play-sh13.quklive.com/live/1708426592499070.m3u8?auth_key=2028414342-e92bda8423ad478c987a8b7ae82abe0e-0-c616f7fabb9675e1ed1d84d9edae7e07
 象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
@@ -706,10 +705,10 @@ CCTV16 4k,https://t.freetv.fun/live/cctv16-5.php
 苍南新闻综合,https://t.freetv.fun/live/cang-nan-xin-wen-zong-he.m3u8
 缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed?
 缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
-缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?fbl=
-绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed#http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed#http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 绍兴新闻综合,https://t.freetv.fun/live/shao-xing-xin-wen-zong-he-2.m3u8
 绍兴新闻综合,https://t.freetv.fun/live/shao-xing-xin-wen-zong-he-3-1.m3u8
 绍兴新闻综合,https://t.freetv.fun/live/shao-xing-xin-wen-zong-he-3.m3u8
@@ -720,8 +719,8 @@ CCTV16 4k,https://t.freetv.fun/live/cctv16-5.php
 绍兴公共,https://t.freetv.fun/live/shao-xing-gong-gong-pin-dao-1.m3u8
 绍兴公共,https://t.freetv.fun/live/shao-xing-gong-gong-pin-dao-2.m3u8
 湖州公共民生,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
-海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8?zbid=293304&tpid=1708007815
 海宁新闻综合,http://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
+海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8?zbid=293304&tpid=1708007815
 海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?zzhed?
 洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
@@ -734,8 +733,8 @@ CCTV16 4k,https://t.freetv.fun/live/cctv16-5.php
 松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
 松阳新闻综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?fbl=
 松阳新闻综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
-普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 普陀电视台,https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
@@ -747,12 +746,14 @@ CCTV16 4k,https://t.freetv.fun/live/cctv16-5.php
 开化新闻综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
 开化新闻综合,https://stream1.freetv.fun/kai-hua-xin-wen-zong-he-1.m3u8
 开化新闻综合,https://stream1.freetv.fun/kai-hua-xin-wen-zong-he-2.ctv
-开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
-开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed
+开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
 庆元新闻综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he-1.m3u8
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he-2.m3u8
@@ -761,26 +762,22 @@ CCTV16 4k,https://t.freetv.fun/live/cctv16-5.php
 嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 嵊泗综合,https://stream1.freetv.fun/sheng-zhou-xin-wen-zong-he-1.m3u8
 嵊泗新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
+嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
 嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
 嵊州新闻综合,rtmp://play-sh11.quklive.com/live/1626935015913208
 嵊州新闻综合,https://stream1.freetv.fun/sheng-zhou-xin-wen-zong-he-1.m3u8
 兰溪新闻综合,https://t.freetv.fun/live/lan-xi-xin-wen-zong-he-1.m3u8
 兰溪新闻综合,https://t.freetv.fun/live/lan-xi-xin-wen-zong-he.m3u8
 余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
-余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
-余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8zzhed
-余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
-云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
@@ -901,8 +898,8 @@ CHC动作电影,http://eastscreen.tv/ooooo.php
 CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714
 CHC动作电影,https://migu.188766.xyz/?migutoken=bfcfaf929838714f6ec89a0098f7643b&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
 CHC动作电影,https://migu.188766.xyz/?migutoken=d3e73cbe14865f450a9fbd9a2a306018&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
