@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260815223044 +0800">
+<tv date="20260816103530 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7092,31 +7092,31 @@
 	<programme channel="海南卫视" start="20260815233000 +0800" stop="20260816000500 +0800">
 		<title lang="zh">乡村振兴电视夜校</title>
 	</programme>
-	<programme channel="海南卫视" start="20260816000500 +0800" stop="20260816003500 +0800">
+	<programme channel="海南卫视" start="20260816000700 +0800" stop="20260816003800 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20260816003500 +0800" stop="20260816010000 +0800">
+	<programme channel="海南卫视" start="20260816003800 +0800" stop="20260816010300 +0800">
 		<title lang="zh">步步为营</title>
 	</programme>
-	<programme channel="海南卫视" start="20260816010000 +0800" stop="20260816023000 +0800">
+	<programme channel="海南卫视" start="20260816010300 +0800" stop="20260816023300 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260816023000 +0800" stop="20260816032000 +0800">
+	<programme channel="海南卫视" start="20260816023300 +0800" stop="20260816032300 +0800">
 		<title lang="zh">纪录中国</title>
 	</programme>
-	<programme channel="海南卫视" start="20260816032000 +0800" stop="20260816035000 +0800">
+	<programme channel="海南卫视" start="20260816032300 +0800" stop="20260816035200 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20260816035000 +0800" stop="20260816042000 +0800">
+	<programme channel="海南卫视" start="20260816035200 +0800" stop="20260816042000 +0800">
 		<title lang="zh">视界</title>
 	</programme>
-	<programme channel="海南卫视" start="20260816042000 +0800" stop="20260816045600 +0800">
+	<programme channel="海南卫视" start="20260816042000 +0800" stop="20260816045900 +0800">
 		<title lang="zh">动漫剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260816045600 +0800" stop="20260816062500 +0800">
+	<programme channel="海南卫视" start="20260816045900 +0800" stop="20260816062800 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260816062500 +0800" stop="20260816070000 +0800">
+	<programme channel="海南卫视" start="20260816062800 +0800" stop="20260816070000 +0800">
 		<title lang="zh">潮起海之南</title>
 	</programme>
 	<programme channel="海南卫视" start="20260816070000 +0800" stop="20260816070100 +0800">
@@ -7190,6 +7190,42 @@
 	</programme>
 	<programme channel="海南卫视" start="20260817073300 +0800" stop="20260817180800 +0800">
 		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817073300 +0800" stop="20260817180800 +0800">
+		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817180800 +0800" stop="20260817182200 +0800">
+		<title lang="zh">特别节目</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817182200 +0800" stop="20260817183000 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817183000 +0800" stop="20260817190000 +0800">
+		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817190000 +0800" stop="20260817193000 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817193000 +0800" stop="20260817195500 +0800">
+		<title lang="zh">潮起海之南</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817195500 +0800" stop="20260817202500 +0800">
+		<title lang="zh">视界</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817202500 +0800" stop="20260817211300 +0800">
+		<title lang="zh">特别节目</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817211300 +0800" stop="20260817215500 +0800">
+		<title lang="zh">金椰剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817215500 +0800" stop="20260817222500 +0800">
+		<title lang="zh">潮起海之南</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817222500 +0800" stop="20260817232000 +0800">
+		<title lang="zh">星光剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260817232000 +0800" stop="20260818001500 +0800">
+		<title lang="zh">卫视高尔夫</title>
 	</programme>
 	<channel id="游戏风云">
 		<display-name lang="zh">游戏风云</display-name>
@@ -8056,13 +8092,13 @@
 		<title lang="zh">游戏大厅:海绵宝宝(4)</title>
 	</programme>
 	<programme channel="游戏风云" start="20260817011500 +0800" stop="20260817013000 +0800">
-		<title lang="zh">游戏大厅:好公司(1)</title>
+		<title lang="zh">游戏大厅:方块逃脱(1)</title>
 	</programme>
 	<programme channel="游戏风云" start="20260817013000 +0800" stop="20260817014500 +0800">
-		<title lang="zh">游戏大厅:好公司(2)</title>
+		<title lang="zh">游戏大厅:方块逃脱(2)</title>
 	</programme>
 	<programme channel="游戏风云" start="20260817014500 +0800" stop="20260817020000 +0800">
-		<title lang="zh">游戏大厅:好公司(3)</title>
+		<title lang="zh">游戏大厅:方块逃脱(3)</title>
 	</programme>
 	<programme channel="游戏风云" start="20260817020000 +0800" stop="20260817040000 +0800">
 		<title lang="zh">巅峰赛场:2022MSI冠军赛(9)</title>
@@ -8074,7 +8110,7 @@
 		<title lang="zh">休闲街区:常世之塔</title>
 	</programme>
 	<programme channel="游戏风云" start="20260817050000 +0800" stop="20260817051500 +0800">
-		<title lang="zh">游戏大厅:好公司(4)</title>
+		<title lang="zh">游戏大厅:飞天猫(1)</title>
 	</programme>
 	<programme channel="游戏风云" start="20260817051500 +0800" stop="20260817053000 +0800">
 		<title lang="zh">游戏大厅:虫虫学院(1)</title>
@@ -8101,10 +8137,10 @@
 		<title lang="zh">游戏大厅:饥荒海滩(3)</title>
 	</programme>
 	<programme channel="游戏风云" start="20260817093000 +0800" stop="20260817094500 +0800">
-		<title lang="zh">游戏大厅:机器人开发地(1)</title>
+		<title lang="zh">游戏大厅:飞天猫(1)</title>
 	</programme>
 	<programme channel="游戏风云" start="20260817094500 +0800" stop="20260817100000 +0800">
-		<title lang="zh">游戏大厅:机器人任务(1)</title>
+		<title lang="zh">游戏大厅:虫虫学院(1)</title>
 	</programme>
 	<programme channel="游戏风云" start="20260817100000 +0800" stop="20260817120000 +0800">
 		<title lang="zh">巅峰赛场:英雄联盟百场经典赛事</title>
@@ -8122,6 +8158,57 @@
 		<title lang="zh">游戏大厅:机械动物园(2)</title>
 	</programme>
 	<programme channel="游戏风云" start="20260817133000 +0800" stop="20260817134500 +0800">
-		<title lang="zh">游戏大厅:机械迷城(1)</title>
+		<title lang="zh">游戏大厅:混沌银河(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260817133000 +0800" stop="20260817134500 +0800">
+		<title lang="zh">游戏大厅:混沌银河(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260817134500 +0800" stop="20260817140000 +0800">
+		<title lang="zh">游戏大厅:海绵宝宝(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260817140000 +0800" stop="20260817160000 +0800">
+		<title lang="zh">巅峰赛场:英雄联盟百场经典赛事</title>
+	</programme>
+	<programme channel="游戏风云" start="20260817160000 +0800" stop="20260817163000 +0800">
+		<title lang="zh">休闲街区:渡神纪-寻神(2)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260817163000 +0800" stop="20260817170000 +0800">
+		<title lang="zh">休闲街区:渡神纪-寻神(3)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260817170000 +0800" stop="20260817171500 +0800">
+		<title lang="zh">游戏大厅:海绵宝宝(2)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260817171500 +0800" stop="20260817173000 +0800">
+		<title lang="zh">游戏大厅:海绵宝宝(3)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260817173000 +0800" stop="20260817174500 +0800">
+		<title lang="zh">游戏大厅:海绵宝宝(4)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260817174500 +0800" stop="20260817180000 +0800">
+		<title lang="zh">游戏大厅:交错的名侦探(5)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260817180000 +0800" stop="20260817200000 +0800">
+		<title lang="zh">巅峰赛场:英雄联盟百场经典赛事</title>
+	</programme>
+	<programme channel="游戏风云" start="20260817200000 +0800" stop="20260817203000 +0800">
+		<title lang="zh">休闲街区:魔法气泡(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260817203000 +0800" stop="20260817210000 +0800">
+		<title lang="zh">休闲街区:雪场大亨</title>
+	</programme>
+	<programme channel="游戏风云" start="20260817210000 +0800" stop="20260817211500 +0800">
+		<title lang="zh">游戏大厅:交错的名侦探(6)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260817211500 +0800" stop="20260817213000 +0800">
+		<title lang="zh">游戏大厅:方块逃脱(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260817213000 +0800" stop="20260817214500 +0800">
+		<title lang="zh">游戏大厅:方块逃脱(2)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260817214500 +0800" stop="20260817220000 +0800">
+		<title lang="zh">游戏大厅:方块逃脱(3)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260817220000 +0800" stop="20260818000000 +0800">
+		<title lang="zh">巅峰赛场:英雄联盟百场经典赛事</title>
 	</programme>
 </tv>
