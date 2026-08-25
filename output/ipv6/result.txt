@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-25 06:36:13,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-08-25 18:42:59,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -610,9 +610,6 @@ CCTV16 4k,https://t.freetv.fun/live/cctv16-5.php
 云南卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236234/index.m3u8
 
 浙江频道,#genre#
-浙江钱江,https://stream1.freetv.fun/zhe-jiang-qian-jiang-du-shi-4.ctv
-浙江钱江,https://stream1.freetv.fun/zhe-jiang-qian-jiang-du-shi-3.ctv
-浙江钱江,https://stream1.freetv.fun/zhe-jiang-qian-jiang-du-shi-5.ctv
 浙江钱江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-1.m3u8
 浙江钱江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-2.m3u8
 浙江钱江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-3.m3u8
@@ -683,7 +680,6 @@ CCTV16 4k,https://t.freetv.fun/live/cctv16-5.php
 永嘉新闻综合,https://t.freetv.fun/live/yong-jia-xin-wen-zong-he-1.m3u8
 永嘉新闻综合,https://t.freetv.fun/live/yong-jia-xin-wen-zong-he.m3u8
 武义新闻综合,https://stream1.freetv.fun/wu-yi-xin-wen-zong-he-3.m3u8
-松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
 新昌新闻综合,https://t.freetv.fun/live/xin-chang-xin-wen-zong-he.m3u8
 开化新闻综合,https://stream1.freetv.fun/kai-hua-xin-wen-zong-he-1.m3u8
 开化新闻综合,https://stream1.freetv.fun/kai-hua-xin-wen-zong-he-2.ctv
